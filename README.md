@@ -7,7 +7,7 @@
 - English at B2/C1 level
 - 📫 How to reach me - czerwinskiwtj@gmail.com or discord Wojtek#4615
 
-Also im a member of a Academic Circle RPG (Game Development), I'm currently member of a team developing 3D Platformer. You can check for the progress here: 
+Also im a member of a Academic Circle RPG (Game Development), I'm in the team that is developing 3D Platformer. You can check for the progress here: 
 https://github.com/Miklonista/Malpka
 
 
