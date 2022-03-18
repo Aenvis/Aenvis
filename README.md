@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @Aenvis, my name is Wojtek. I'm studying Automatic control and Robotics in Poznań, Poland
-- 👀 I’m interested in modern technologies, video games, maths, physics, sports, travelling, fantasy, anime/manga
-- 🌱 I've basic knowledge of SFML 2.5, currently I am learning Unity (C#) and I am a member of academic circle where we develop video games
+- 👋 Hi, I'm Wojtek. I'm studying Automatics and Robotics at Poznan University of Technology
+- 👀 I’m interested in modern technologies, video games, sports, travelling, fantasy, anime/manga
+- 🌱 Abilities:
+- OOP (novice or intermediate skills in: C++, C#, Python)
+- Knowledge of Unity Engine
+- Working with GIT and SCRUM 
+- English at B2/C1 level
 - 📫 How to reach me - czerwinskiwtj@gmail.com or discord Wojtek#4615
+
+Also im a member of a Academic Circle RPG (Game Development), I'm currently member of a team developing 3D Platformer. You can check for the progress here: 
+https://github.com/Miklonista/Malpka
 
 
