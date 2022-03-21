@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Wojtek. I'm studying Automatics and Robotics at Poznan University of Technology
 - 👀 I’m interested in modern technologies, video games, sports, travelling, fantasy, anime/manga
 - 🌱 Abilities:
-- OOP (novice or intermediate skills in: C++, C#, Python)
+- OOP (C++, C#, Python)
 - Knowledge of Unity Engine
-- Working with GIT and SCRUM 
+- Working with Git and Scrum
 - English at B2/C1 level
 - 📫 How to reach me - czerwinskiwtj@gmail.com or discord Wojtek#4615
 
