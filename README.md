@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Wojtek. I'm studying Automatics and Robotics at Poznan University of Technology
-- 👀 I’m interested in modern technologies, video games, sports, travelling, fantasy, anime/manga
+- 👀 I’m interested in modern technologies, video games, game development, sports, travelling, fantasy, anime/manga
 - 🌱 Abilities:
 - OOP (C++, C#, Python)
 - Knowledge of Unity Engine
