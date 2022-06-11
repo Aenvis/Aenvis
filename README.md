@@ -3,7 +3,6 @@
 - 🌱 Abilities:
 - OOP (C++, C#, Python)
 - Knowledge of Unity Engine
-- Working with Git and Scrum
 - English at B2/C1 level
 - 📫 How to reach me - czerwinskiwtj@gmail.com or discord Wojtek#4615
 
