@@ -2,11 +2,11 @@
 - 👀 I’m interested in modern technologies, video games, game development, sports, travelling, fantasy, anime/manga
 - 🌱 Abilities:
 - OOP (C++, C#, Python)
-- Knowledge of Unity Engine
+- Unity Engine
 - English at B2/C1 level
 - 📫 How to reach me - czerwinskiwtj@gmail.com or discord Wojtek#4615
 
-Also im a member of a Academic Circle RPG (Game Development), I'm in the team that is developing 3D Platformer. You can check for the progress here: 
+I'm a member of a Academic Circle RPG (Game Development), actively programming and designing games. You can see our current project here: 
 https://github.com/Miklonista/Malpka
 
 
