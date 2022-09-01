@@ -2,10 +2,10 @@
  
  🎮 I’m interested in video games, programming, sports, fantasy, anime/manga
  
- ⭐ Technology that I use:<br>
-    - C/C++, C#, Python<br>
-    - Unity Engine<br>
-    - Visual Studio, PyCharm, Rider, CLion<br>
+ ⭐ Technology that I use:
+- C/C++, C#, Python
+- Unity Engine
+- Visual Studio, PyCharm, Rider, CLion
  
  🐱‍👤 My abilities:
 - English at B2/C1 level
