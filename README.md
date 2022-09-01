@@ -1,4 +1,4 @@
- 👋 I'm Wojtek, I'm studying Automatic control and Robotics at Poznan University of Technology
+ 👋 I'm Wojtek, I'm studying Automation and Robotics at Poznan University of Technology
  
  🎮 I’m interested in video games, programming, sports, fantasy, anime/manga
  
