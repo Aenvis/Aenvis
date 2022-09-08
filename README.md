@@ -5,14 +5,7 @@
  ⭐ Technology that I use:
 - C/C++, C#, Python
 - Unity Engine
-- Visual Studio, PyCharm, Rider, CLion
- 
- 🐱‍👤 My abilities:
-- English at B2/C1 level
-- Communication
-- Project Management
-- Solving problems
-- Effectively working alone as well as part of a team
+- Visual Studio, PyCharm, Rider
 
  📫 How to reach me 👉 czerwinskiwtj@gmail.com | discord Wojtek#4615 | https://www.linkedin.com/in/wojciech-czerwinski-2503591a9/ 
 
