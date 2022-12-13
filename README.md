@@ -3,7 +3,7 @@
  🎮 I’m interested in video games, programming, sports, fantasy, anime/manga
 
  ⌨️ My skills
-- C/C++ (STM32, SFML, OpenGL, UnrealEngine Framework, QTCreator), C# (Unity C#, WPF [+XAML], Entity Framework), Python (mostly numpy, scipy)
+- C/C++ (STM32, SFML, OpenGL, UnrealEngine Framework, QT), C# (Unity C#, WPF [+XAML], Entity Framework), Python (mostly numpy, scipy)
 - Unity, (currently) Unreal Engine
 - Visual Studio Code, Visual Studio, Rider
 
