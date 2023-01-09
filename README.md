@@ -7,9 +7,9 @@
 - Unity, (currently) Unreal Engine
 - Visual Studio Code, Visual Studio, Rider
 
- ⭐ Study goals for the future
+ ⭐ future ideas
  - Deepen my knowledge about computer graphics, try APIs like Vulcan, DirectX
- - Rust
+ - learn Rust by creating NES Emulator?
  - Learn more about AI 
 
 Contact:
