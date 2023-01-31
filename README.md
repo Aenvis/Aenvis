@@ -15,6 +15,6 @@
 Contact:
 discord Wojtek#4615 | https://www.linkedin.com/in/wojciech-czerwinski-2503591a9/ 
 
-I'm a member of a Science Club RPG (Game Development), team leader, developer and designer, currently we're developing a RPG hextile based game in Unreal Engine 5.1
+I'm a member of a Science Club RPG (Game Development), team leader, developer and designer, currently we're developing a RPG hex tile-based game in Unreal Engine 5.1
 
 
