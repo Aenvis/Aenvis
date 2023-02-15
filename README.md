@@ -1,4 +1,4 @@
- 🏫 I'm studying Automatics and Robotics at Poznan University of Technology
+ 🏫 I'm studying Automatic Control and Robotics at Poznan University of Technology
  
  🎮 I’m interested in video games, programming, sports, fantasy, anime/manga
 
