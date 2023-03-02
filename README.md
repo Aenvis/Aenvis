@@ -11,10 +11,9 @@
 - Visual Studio Code, Visual Studio, Rider
 
  ⭐ future ideas
- - Learn more about computer graphics rendering => Vulcan, DirectX
+ - Learn more about rendering computer graphics - Vulcan, DirectX
  - learn Rust => NES Emulator
- - Learn more about AI => image processing, modelling, behavior trees
- - ASP.NET
+ - Learn more about AI
 
 Contact:
 discord Wojtek#4615 | https://www.linkedin.com/in/wojciech-czerwinski-2503591a9/ 
