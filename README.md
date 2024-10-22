@@ -7,5 +7,5 @@
 
 🎮 I’m interested in video games, programming, sports, fantasy, movies.
  
-Contact: discord Wojtek#4615 | www.linkedin.com/in/wcz15
+Contact: www.linkedin.com/in/wtjczerwinski 
 
